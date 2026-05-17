@@ -50,6 +50,4 @@ affecting air quality.
   **very low influence** on pollutant levels — all R² scores near 0, 
   confirming pollution is driven by human activity rather than weather
 
----
 
-## 📁 Repository Structure
